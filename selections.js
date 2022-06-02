@@ -11,7 +11,7 @@ module.exports = {
             {
                 text: '不递纸条',
                 link: 'a3',
-                en: 'maybe later'
+                en: 'maybe later',
                 key: 'b',
             }
         ]
